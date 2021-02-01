@@ -18,12 +18,15 @@ Apart from that, the detractors are also gathering where total frequent flyer ac
 
 ## Correlation
 The group also looks at the correlation between the likelihood the recommendation and other relevant variables. It can be concluded that the significance of independent variables (from strong to weak) is: Type of Travel > Flight per Year > Airline Status > Age > Loyalty > Gender > Arrival Delay in Minutes > Departure Delay in Minutes > Price Sensitivity > Eating and Drinking > Total Frequent Flyer Accounts > Class > Shopping Amount.
+
 ![plot](https://github.com/JKYang01/Customer-Churn-in-the-Airline-Industry/blob/main/data%20visualization/correlation.jpg)
 
 ## Associate Rule Mining
 Association rules are if-then statements that help the group to find the relationships between the attributions. An associate rule has two parts: an antecedent and a consequent. In this project, there is a need to find out the relationship between the detractors (the consequent) and the other indicators (the antecedent). The associate rules will provide a bunch of relationships that can be interpreted -- if a customer is a, b, c, and d, then this person would more likely to be a detractor.
+
 ![plot](https://github.com/JKYang01/Customer-Churn-in-the-Airline-Industry/blob/main/data%20visualization/associate%20rule%20mining.png)
 
 ## Decision Tree & SVM 
 Decision tree is a decision algorithm that represents classification rules. This method empowers predictive models with high accuracy, stability and ease of interpretation. The target variable is categorical, and the decision tree calculate the probability that a given record belong to each of the category or to classify the record by assigning it to the most likely class (or category).  The decision tree for this project is as below. 
+
 ![plot](https://github.com/JKYang01/Customer-Churn-in-the-Airline-Industry/blob/main/data%20visualization/Decission%20Tree%20and%20SVM.png)
