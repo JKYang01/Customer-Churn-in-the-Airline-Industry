@@ -27,6 +27,7 @@ Association rules are if-then statements that help the group to find the relatio
 ![plot](https://github.com/JKYang01/Customer-Churn-in-the-Airline-Industry/blob/main/data%20visualization/associate%20rule%20mining.png)
 
 ## Decision Tree & SVM 
-Decision tree is a decision algorithm that represents classification rules. This method empowers predictive models with high accuracy, stability and ease of interpretation. The target variable is categorical, and the decision tree calculate the probability that a given record belong to each of the category or to classify the record by assigning it to the most likely class (or category).  The decision tree for this project is as below. 
+Decision tree is a decision algorithm that represents classification rules. This method empowers predictive models with high accuracy, stability and ease of interpretation. The target variable is categorical, and the decision tree calculate the probability that a given record belong to each of the category or to classify the record by assigning it to the most likely class (or category).  A Support Vector Machine (SVM) is a discriminative classifier formally defined by a separating hyperplane. In other words, given labeled training data (supervised learning), the algorithm outputs an optimal hyperplane which categorizes new examples. In two-dimensional space this hyperplane is a line dividing a plane in two parts where in each class lay in either side. 
+The decision tree and SVM modeling for this project is as below. 
 
 ![plot](https://github.com/JKYang01/Customer-Churn-in-the-Airline-Industry/blob/main/data%20visualization/Decission%20Tree%20and%20SVM.png)
