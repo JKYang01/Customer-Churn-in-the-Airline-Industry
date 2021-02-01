@@ -6,7 +6,7 @@
 # 3. Linear modeling
 #----------------------------------------------------------------
 # GROUP 2:
-# TIEHAO CHEN, CHENG LI, SAHEB SINGH, WENZHE YANG, YIYUAN CHENG
+#  WENZHE YANG, TIEHAO CHEN, CHENG LI, SAHEB SINGH, YIYUAN CHENG
 
 #################################################################
 
